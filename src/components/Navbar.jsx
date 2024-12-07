@@ -10,5 +10,5 @@ function Navbar() {
         </nav>
     );
 }
-
+//edited
 export default Navbar;
